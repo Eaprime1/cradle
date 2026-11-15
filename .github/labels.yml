@@ -1,0 +1,7 @@
+- {name: concept-seed, color: "767676", description: "New concept entering via intake"}
+- {name: gateway, color: "1D76DB", description: "Cradle-of-X aperture gateway work"}
+- {name: iteration, color: "0E8A16", description: "Iteration tracking (22 = Penumbra)"}
+- {name: novella, color: "B60205", description: "The Sixth Cradle novella"}
+- {name: ethics, color: "D93F0B", description: "Consent frameworks and adulteration threads"}
+- {name: timeline, color: "FBCA04", description: "Deep-time chronology"}
+- {name: vault-game, color: "5319E7", description: "Cradle Vault of First Spark engine"}
